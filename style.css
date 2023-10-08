@@ -2,7 +2,7 @@
       margin: 0;
       padding: 0;
       scroll-behavior: smooth;
-
+      font-family: pp mori;
 }
 
 
@@ -303,9 +303,11 @@ footer {
 }
 
 .rightfooter>h4 {
-      color: rgba(255, 255, 255, 0.863);
+      color: white;
+      font-weight: 900;
+
       text-decoration: underline;
-      font-size: x-large;
+      font-size: xx-large;
 }
 
 .rightfooter h4,
